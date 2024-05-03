@@ -1,8 +1,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=100&duration=5000&lines=Hey+Everyone+%F0%9F%91%8B+I%27m+Mehedi+Hasan;" />
 </h1>
-<div align="center">
   <br/>
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br/>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sultanvai0/sultanvai0/output/snake.svg" />
