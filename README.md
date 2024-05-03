@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm  Mehedi .</h1>
 <div align="center"> <img src="https://github.com/SulTanvai0/Sultanvai0/blob/main/circleLoop.gif"> </div>
-<h3 align="center">Hey, I'm a web developer from Bangladesh. I'm currently learning Next.js and I'm efficient in using MERN stack. baby hows this.</h3>
+<h3 align="center">Hey, I'm a web developer from Bangladesh. I'm currently learning Next.js and I'm efficient in using MERN stack .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sultanvai0&label=Profile%20views&color=0e75b6&style=flat" alt="sultanvai0" /> </p>
 
@@ -13,9 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammed-mehedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-mehedi" height="30" width="40" /></a>
-
 <a href="https://fb.com/sultanvai0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sultanvai0" height="30" width="40" /></a>
-
 <a href="https://discord.gg/yupR6DQW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yupR6DQW" height="30" width="40" /></a>
 
 </p>
