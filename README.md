@@ -3,9 +3,7 @@
 </h1>
   
 <h3 align="center">Hey, I'm a web developer from Bangladesh. I'm currently learning Next.js and I'm efficient in using MERN stack .</h3>
-
 <div align="center">
-<br/>
 
 <h2>🐍 My Contributions 🐍</h2>
 
