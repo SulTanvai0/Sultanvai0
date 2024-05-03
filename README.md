@@ -35,13 +35,13 @@
      <img src="https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
   <a href="https://www.facebook.com/SulTanVai0" target="_blank">
-     <img src="https://img.shields.io/badge/facebook-7289da?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+     <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" /> 
   </a>
   <a href="https://wa.me/qr/6ZXLSWATEFUYI1" target="_blank">
-     <img src="https://img.shields.io/badge/whatsapp-7289da?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+     <img src="https://img.shields.io/badge/WhatsApp-075E54?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" /> 
   </a>
   <a href="https://t.me/Sultan_vai" target="_blank">
-     <img src="https://img.shields.io/badge/telegram-7289da?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+     <img src="https://img.shields.io/badge/telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" /> 
   </a>
 </div>
 <hr/>
