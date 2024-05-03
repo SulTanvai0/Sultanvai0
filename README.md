@@ -5,20 +5,17 @@
 <h3 align="center">Hey, I'm a web developer from Bangladesh. I'm currently learning Next.js and I'm efficient in using MERN stack .</h3>
 <div align="center">
 
+<hr>
 <h2>🐍 My Contributions 🐍</h2>
 <br>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sultanvai0/sultanvai0/output/snake.svg" />
 <br><br><br>
 </div>
-
+<hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sultanvai0&label=Profile%20views&color=0e75b6&style=flat" alt="sultanvai0" /> </p>
 
 - 🌱 I’m currently learning **Next.js , others**
-
-- 👨‍💻 All of my projects are available at [https://muhammed-mehedi-hasan.netlify.app/](https://muhammed-mehedi-hasan.netlify.app/)
-
-- 📫 How to reach me **muhammedMehediHasan@gmail.com**
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 
 <div align="left"> 
