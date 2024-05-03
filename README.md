@@ -1,7 +1,14 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=100&duration=5000&lines=Hey+Everyone+%F0%9F%91%8B+I%27m+Mehedi+Hasan;" />
 </h1>
-<div align="center"> <img src="https://github.com/SulTanvai0/Sultanvai0/blob/main/circleLoop.gif"> </div>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sultanvai0/sultanvai0/output/snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 <h3 align="center">Hey, I'm a web developer from Bangladesh. I'm currently learning Next.js and I'm efficient in using MERN stack .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sultanvai0&label=Profile%20views&color=0e75b6&style=flat" alt="sultanvai0" /> </p>
@@ -46,13 +53,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sultanvai0&show_icons=true&locale=en" alt="sultanvai0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultanvai0&" alt="sultanvai0" /></p>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sultanvai0/sultanvai0/output/snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 ###
