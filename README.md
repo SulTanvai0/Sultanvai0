@@ -6,9 +6,9 @@
 <div align="center">
 
 <h2>🐍 My Contributions 🐍</h2>
-
+<br>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sultanvai0/sultanvai0/output/snake.svg" />
-<br/><br/><br/>
+<br><br><br>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sultanvai0&label=Profile%20views&color=0e75b6&style=flat" alt="sultanvai0" /> </p>
@@ -31,14 +31,14 @@
   <a href="https://muhammed-mehedi-hasan.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
-  <a href="https://discordapp.com/users/1185534673938554932" target="blank"><img align="center" src="https://img.shields.io/badge/discord-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="discord" height="30" width="40" /></a>
+  <a href="https://discordapp.com/users/1185534673938554932" target="blank"><img align="center" src="https://img.shields.io/badge/discord-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="discord" /></a>
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,,nextjs," /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git," /> <br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,nextjs," /><br>
 </div>
 
 <br/>
