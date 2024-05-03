@@ -1,4 +1,6 @@
-<h1 align="center">Hey Everyone 👋, I'm  Mehedi .</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=100&duration=5000&lines=Hey+Everyone+%F0%9F%91%8B+I%27m+Mehedi+Hasan;" />
+</h1>
 <div align="center"> <img src="https://github.com/SulTanvai0/Sultanvai0/blob/main/circleLoop.gif"> </div>
 <h3 align="center">Hey, I'm a web developer from Bangladesh. I'm currently learning Next.js and I'm efficient in using MERN stack .</h3>
 
