@@ -50,10 +50,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanvai0&show_icons=true&locale=en&layout=compact" alt="top langs" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=sultanvai0&show_icons=true&locale=en" alt="readme stats" />
+ <img width=350 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanvai0&show_icons=true&locale=en&layout=compact" alt="top langs" />
+  <img width=350 align="right" src="https://github-readme-stats.vercel.app/api?username=sultanvai0&show_icons=true&locale=en" alt="readme stats" />
   <br/>
-   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sultanvai0&" alt="streak stats"/>
+   <img width=350 align src="https://github-readme-streak-stats.herokuapp.com/?user=sultanvai0&" alt="streak stats"/>
 </div>
 
 <br/><br/>
