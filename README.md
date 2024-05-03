@@ -5,12 +5,12 @@
 <h3 align="center">Hey, I'm a web developer from Bangladesh. I'm currently learning Next.js and I'm efficient in using MERN stack .</h3>
 
 <div align="center">
+<br/>
 
 <h2>🐍 My Contributions 🐍</h2>
 
-  <br/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sultanvai0/sultanvai0/output/snake.svg" />
-  <br/><br/><br/>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sultanvai0/sultanvai0/output/snake.svg" />
+<br/><br/><br/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sultanvai0&label=Profile%20views&color=0e75b6&style=flat" alt="sultanvai0" /> </p>
