@@ -31,7 +31,7 @@
   <a href="https://muhammed-mehedi-hasan.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
-  <a href="https://discordapp.com/users/1185534673938554932" target="blank"><img align="center" src="https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=todoist&logoColor=white" alt="discord" /></a>
+  <a href="https://discordapp.com/users/1185534673938554932" target="blank"><img align="center" src="https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
