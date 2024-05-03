@@ -3,8 +3,8 @@
 </h1>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <br>
+  <br/>
+  <br/>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sultanvai0/sultanvai0/output/snake.svg" />
   
   <br/><br/><br/>
