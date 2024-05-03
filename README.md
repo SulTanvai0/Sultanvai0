@@ -31,8 +31,17 @@
   <a href="https://discordapp.com/users/1185534673938554932" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
-  <a href="https://muhammed-mehedi-hasan.netlify.app/" target="_blank">
+  <a href="https://discordapp.com/users/1185534673938554932" target="_blank">
      <img src="https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+  <a href="https://www.facebook.com/SulTanVai0" target="_blank">
+     <img src="https://img.shields.io/badge/facebook-7289da?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+  <a href="https://wa.me/qr/6ZXLSWATEFUYI1" target="_blank">
+     <img src="https://img.shields.io/badge/whatsapp-7289da?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+  <a href="https://t.me/Sultan_vai" target="_blank">
+     <img src="https://img.shields.io/badge/telegram-7289da?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
 <hr/>
