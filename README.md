@@ -34,7 +34,6 @@
   <a href="https://muhammed-mehedi-hasan.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
-  <a href="https://discordapp.com/users/1185534673938554932" target="blank"><img align="center" src="https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /></a>
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -52,5 +51,20 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sultanvai0&show_icons=true&locale=en" alt="sultanvai0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultanvai0&" alt="sultanvai0" /></p>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-SulTanvai0.vercel.app/?user=SulTanvai0&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-SulTanvai0.vercel.app/api?username=SulTanvai0&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-SulTanvai0.vercel.app/api/top-langs/?username=SulTanvai0&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
 
 ###
