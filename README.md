@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Muhammed Mehedi Hasan.</h1>
-<div align="center"> <img src="https://github.com/SulTanvai0/Sultanvai0/blob/main/git-cover-webImage.png"> </div>
+<div align="center"> <img src="https://github.com/SulTanvai0/Sultanvai0/blob/main/circleLoop.gif"> </div>
 <h3 align="center">Hey, I'm a web developer from Bangladesh. I'm currently learning Next.js and I'm pretty comfortable with the MERN stack.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sultanvai0&label=Profile%20views&color=0e75b6&style=flat" alt="sultanvai0" /> </p>
@@ -25,7 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sultanvai0&show_icons=true&locale=en" alt="sultanvai0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultanvai0&" alt="sultanvai0" /></p>
-
-<img src="https://raw.githubusercontent.com/sultanvai0/sultanvai0/output/snake.svg" alt="Snake animation" />
-
-###
