@@ -32,7 +32,7 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
   <a href="https://discordapp.com/users/1185534673938554932" target="_blank">
-     <img src="https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+     <img src="https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=discord&logoColor=white" target="_blank" /> 
   </a>
   <a href="https://www.facebook.com/SulTanVai0" target="_blank">
      <img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" /> 
