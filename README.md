@@ -61,6 +61,8 @@
     <br/>
 
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanvai0&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sultanvai0&theme=algolia" alt="top langs" />
+  
 </div>
 
 <br/><br/>
